@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Abdalla Ayash",
+        "age":"22",
+        "city":"cairo",
+        "height":"170",
+        "gender":"male",
+        "hair_color":"orange"
+    },{
+        "name":"Shehab Osama",
+        "age":"22",
+        "city":"zagazig",
+        "height":"172",
+        "gender":"male",
+        "hair_color":"brown"
+    },{
+        "name":"Abdalla Abdelhady",
+        "age":"22",
+        "city":"mansoura",
+        "height":"178",
+        "gender":"male",
+        "hair_color":"balck"
+    },{
+        "name":"Kareem Mohamed",
+        "age":"22",
+        "city":"zagazig",
+        "height":"180",
+        "gender":"male",
+        "hair_color":"black"
+    },{
+        "name":"Mahmoud Magdy",
+        "age":"22",
+        "city":"ismaeilia",
+        "height":"175",
+        "gender":"male",
+        "hair_color":"black"
+    }
+]
